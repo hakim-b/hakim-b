@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakim-b
 - 👀 I’m interested in Front-end or Full-stack development
-- 🌱 I’m currently learning React & TypeScript
+- 🌱 I’m currently learning Next.js
 
 <!---
 hakim-b/hakim-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
