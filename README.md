@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakim-b
-- 👀 I’m interested in Front-end/Full-stack development
+- 👀 I’m interested in Full-stack JS/TS development
 - 🌱 I’m currently learning Next.js
 
 <!---
