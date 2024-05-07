@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @hakim-b
-- 👀 I’m interested in Full-stack JS/TS development
-- 🌱 I’m currently learning Next.js
-
-<!---
-hakim-b/hakim-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](<iframe src="https://giphy.com/embed/DQk9rXeSXEgRW" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/boondocks-adult-swim-the-boondocks-DQk9rXeSXEgRW">via GIPHY</a></p>)
