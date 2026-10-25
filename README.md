@@ -1,3 +1,5 @@
+![Hello](title-card.gif)
+
 # Hi, I'm Hakim 👋
 
 ### Full-Stack Software Developer | Computer Science Student
